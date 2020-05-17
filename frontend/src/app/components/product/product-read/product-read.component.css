@@ -1,0 +1,20 @@
+.full-width-table {
+  width: 100%;
+}
+
+.btn-action a{
+  margin-left: 1rem;
+}
+
+.btn-view{
+  color: blueviolet;
+}
+
+.btn-edit{
+  color: chocolate;
+}
+
+.btn-delete{
+  color: darkred;
+  cursor: pointer;
+}
