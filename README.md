@@ -3,4 +3,4 @@ Projeto simples contém o angular 9 com Componentes, Services, Diretivas, Pipes,
 
 Além do mais o produto suporta o CRUD, ou  seja, Alterar, excluir e novo produto.
 
-![Imagem da tela do projeto](https://github.com/marcellosilverio/projeto-simples-angular/blob/master/tela.png?raw=true)
+![Imagem da tela do projeto](https://github.com/smarcelloc/projeto-simples-angular/blob/master/tela.png?raw=true)
